@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Luiz Carlos 👋
 
 - 🔭 Estou cursando o 10 Semestre de Engenharia da Computação
-- 🌱 Estudando: C, SQL, Backend e Frontend
+- 🌱 Estudando: C, SQL, PHP, Backend e Frontend
 
 - 📫 Contato através do email: luizcarlossr@gmail.com
 
