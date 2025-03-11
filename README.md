@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Luiz Carlos 👋
 
 - 🔭 Formação: Engenharia da Computação
-- 🌱 Estudando: C#, Java, Banco de dados(SQL, MongoDB)
+- 🌱 Estudando: Java, C#, Banco de dados(SQL, MongoDB)
 
 <div align="center">
   <a href="https://github.com/LuizCarlossr">
