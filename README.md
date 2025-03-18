@@ -3,7 +3,7 @@
 ## 🌎 Sobre mim  
 
 - 📚 Formação: Engenharia da Computação - <a href="https://www.esamc.br/unidade-santos/">Esamc - Santos</a>
-- 🎓 Cursando a Formação Desenvolva+ - <a href="https://ada.tech/">Ada Tech</a>, especializando em Java.
+- 🎓 Cursando a Formação Desenvolva+ - <a href="https://ada.tech/">Ada Tech</a>, especializado em Java.
 - 💻 Estudando: Java, C#, Banco de dados(SQL, MongoDB)
 - 🔭 Gosto de viajar, cinema, etc.
 - 📍 São Vicente, SP , Brasil.
