@@ -1,6 +1,7 @@
 ### Olá! Meu nome é Luiz Carlos 👋
 
 ## 🌎 Sobre mim  
+- Atualmente, estou em busca de oportunidades como Desenvolvedor Back-End e me mantenho constantemente atualizado nas tecnologias do setor.
 
 ## 📚 Formação
 - Engenharia da Computação - <a href="https://www.esamc.br/unidade-santos/">Esamc - Santos</a>
@@ -9,19 +10,28 @@
 - Formação Desenvolva+ - <a href="https://ada.tech/">Ada Tech</a>, especializado em Java.
 
 ## 💻 Estudando 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=fff), C#, Banco de dados(SQL, MongoDB)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white), Banco de dados(SQL, MongoDB)
 
-- 
-- 🔭 Gosto de viajar, cinema, etc.
+
+## 🔭 Hobby  
+-  Gosto de viajar, cinema, tecnologia, etc.
 
 
 
 
 
 ## 🖥️ Tecnologias 
+<code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 
 
 ## 🛠️ Ferramentas
+<code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title = "IntelliJ"/></code>
+<code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
+<code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg" title = "Postman"/></code>
+<code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+</br>
 
 
 ## 📍 Endereço
