@@ -19,8 +19,8 @@
 
 ---
 
-## 🧠 Interesses
-- ✈️ Viagens  
+## 🔭 Hobby
+- ✈️ Viajar  
 - 🎬 Cinema  
 - 💡 Tecnologia  
 - 📚 Aprendizado contínuo
