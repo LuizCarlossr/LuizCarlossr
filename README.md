@@ -7,7 +7,8 @@
 - 🎓 **Engenharia da Computação** — [ESAMC - Santos](https://www.esamc.br/unidade-santos/)
 
 ## 📘 Cursando
-- 🧑‍🏫 **Formação Desenvolva+** — [Ada Tech](https://ada.tech/), com foco em **Java**
+- 🧑‍🏫 **Desenvolva+** — [Ada Tech](https://ada.tech/), com foco em **Java**
+- 🧑‍🏫 **Moove** — [Moove](https://moovi.curseduca.pro/m/courses), com foco em **SAP**
 
 ## 💻 Estudando
 <div align="left">
